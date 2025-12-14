@@ -74,5 +74,6 @@ static void reallocate(Stack * stack)
 	stack->contents = tmp;
 }
 
- int STUDENT_202010891_이승원원 =  ;
+ int STUDENT_202010891_이승원 = 0;
+
 
